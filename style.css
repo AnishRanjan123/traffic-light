@@ -1,0 +1,178 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.traffic {
+  border: 20px #FF7F50 solid;
+  width: 300px;
+  height: 700px;
+  background-color: black;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 50px;
+
+
+}
+
+.red {
+  height: 200px;
+  border: 3px white solid;
+  width: 200px;
+  background-color: red;
+  border-radius: 50%;
+  display: flex;
+  margin-left: 45px;
+  margin-top: 25px;
+  margin-right: 5px;
+}
+
+.yellow {
+  height: 200px;
+  width: 200px;
+  border: 3px white solid;
+  background-color: yellow;
+  border-radius: 50%;
+  display: flex;
+  margin-left: 45px;
+  margin-top: 25px;
+  margin-right: 5px;
+
+}
+
+.green {
+  height: 200px;
+  width: 200px;
+  border: 3px white solid;
+  background-color: green;
+  border-radius: 50%;
+  display: flex;
+  margin-left: 45px;
+  margin-top: 25px;
+  margin-right: 5px;
+
+}
+
+.poll {
+  height: 800px;
+  width: 65px;
+  background-color: grey;
+  margin: auto;
+  border-radius: 10%;
+}
+
+.road {
+
+  width: 6000px;
+  height: 1000px;
+  background-color: black;
+
+display:flex;
+ 
+
+
+
+}
+
+body {
+  background-color: skyblue;
+}
+
+.red-btn {
+  border: 10px solid black;
+  font-size: 100px;
+  width: 400px;
+  height: 200px;
+  background-color: red;
+ margin-left:400px;
+ 
+  
+}
+
+.yellow-btn {
+  border: 10px solid black;
+  font-size: 100px;
+  width: 400px;
+  height: 200px;
+  background-color: yellow;
+   margin-left:400px;
+  
+}
+
+.green-btn {
+  border: 10px solid black;
+  font-size: 100px;
+  width: 400px;
+  height: 200px;
+  background-color: green;
+   margin-left:400px;
+
+}
+
+
+
+.line2 {
+  height: 100px;
+  width: 1000px;
+  background-color: white;
+  margin-left: 200px;
+   margin-top: 400px;
+
+  
+
+}
+
+.line3 {
+  height: 100px;
+  width: 1000px;
+  background-color: white;
+   margin-left: 200px;
+   margin-top: 400px;
+
+ 
+}
+
+.line4 {
+  height: 100px;
+  width: 1000px;
+  background-color: white;
+    margin-left: 200px;
+     margin-top: 400px;
+
+}
+
+.line5 {
+  height: 100px;
+  width: 1000px;
+  background-color: white;
+  margin-left: 200px;
+   margin-top: 400px;
+
+
+}
+
+.line6 {
+  height: 100px;
+  width: 1000px;
+  background-color: white;
+  margin-left: 200px;
+   margin-top: 400px;
+
+  .img
+  {
+    margin-right:500px;
+  }
+
+#clock 
+  {
+    margin-left:500px;
+    margin-top:100px;
+  }
+
+
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
